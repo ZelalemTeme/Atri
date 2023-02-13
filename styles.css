@@ -1,0 +1,247 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: azure;
+    font-family: 'Merriweather', serif;
+    padding-top: 30px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 3%;
+}
+ul{
+    list-style: none;
+}
+ul li {
+    display: inline-block;
+    padding: 20px 30px;
+    font-size: 20px;
+}
+img{
+    width: 30px;
+    height: 30px;
+}
+.full{
+    padding-left: 0px;
+}
+.logo{
+    display: flex;
+    padding-top: 20px;
+    justify-content: center;
+}
+.explore{
+    padding-left: 10px;
+}
+h2{
+    padding-left: 15px;
+}
+p{
+    padding-left: 15px;
+    padding-top: 15px;
+}
+pre{
+    font-size: 15px;
+}
+.github{
+    padding: 20px 30px;
+}
+.fa-github{
+    padding-right: 15px;
+    font-size: 2em;
+}
+.started{
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: bolder;
+    background-color: yellow;
+    border-radius: 6px;
+    text-align: center;
+    padding: 10px;
+    border: none;
+   
+}
+.showcase{
+    text-align: center;
+    padding-top: 130px;
+    
+}
+.show{
+    font-size: 4rem;
+    padding-bottom: 20px;
+}
+.add{
+    background-color: DodgerBlue;
+    font-size: 15px;padding: 10px;
+    border-radius: 5px;
+    margin-top: 15px;
+    border: none;
+}
+.filter{
+    padding-top: 100px;
+    padding: 100px 3% 0 3%;
+    
+}
+.fil{
+    background-color: bisque;
+    color: black;
+    font-size: 15px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    
+    
+}
+.ocr{
+    color: rgba(45, 53, 170, 0.651);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.cards{
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1.5rem;
+    padding: 6% 18%;
+    
+}
+.code-x{
+    padding-top: 35px;
+}
+.sanskar{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+
+}
+.git{
+    border-radius: 20px;
+}
+.card-img4{
+    width: 100%;
+    height: 150px;
+    height: min-content;
+    
+}
+.Restaurant1{
+    background-color: rgba(63, 63, 110, 0.445);
+
+
+}
+.card-img{
+    width: 100%;
+    height: fit-content;
+    padding-bottom: 15px;
+}
+.sec-img{
+    border-radius: 20px;
+    margin-left: 15px;
+}
+.Restaurant2{
+    background-color: rgba(63, 63, 110, 0.445);
+
+}
+.Restaurant3{
+    background-color: rgba(63, 63, 110, 0.445);
+
+}
+.Restaurant4{
+    background-color: rgba(63, 63, 110, 0.445);
+
+}
+.Restaurant5{
+    background-color: rgba(63, 63, 110, 0.445);
+
+}
+.Restaurant6{
+    background-color: rgba(63, 63, 110, 0.445);
+
+}
+.open{
+    padding: 6px;
+    border-radius: 6px;
+    border: none;
+    justify-content: center;
+    margin-left: 15px;
+    margin-top: 100px;
+    margin-bottom: 40px;
+    color: rgb(238, 63, 63);
+    background-color: white;
+}
+.footer{
+    display: flex;
+    width: 100%;
+    padding: 60px;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 255, 0.226);
+    padding-top: 40px;
+}
+.leave-star{
+    display: flex;
+    padding-top: 50px;
+    
+    
+}
+.icons{
+    padding-top: 30px;
+    
+}
+.atri{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.io{
+    background-color: yellow;
+    color: black;
+    font-size: 2rem;
+}
+.xy{
+    background-color: rgb(229, 248, 145);
+}
+button{
+    text-align: center;
+    padding-bottom: 5px;
+    padding-right: 3px;
+}
+.last{
+    color: yellow;
+}
+.fa-twitter{
+    margin: 0 15px;
+}
+.fa-slack{
+    margin-left: 15px;
+}
+table{
+    padding-top: -50px;
+}
+.last-footer{
+    width: 100%;
+    padding: 0 50px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 255, 0.226);
+}
+.made-with{
+    padding-right: 50px;
+    padding-top: 40px;
+    height: 120px;
+    background-color: rgba(0, 0, 255, 0.226);
+    
+
+}
+.made{
+    
+    float: right;
+}
+.logo-img{
+    background-color: beige;
+}
+
+
